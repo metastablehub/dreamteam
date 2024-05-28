@@ -176,12 +176,17 @@
 		padding: 5px; 
   } 
   */
-  
+
+  .sidebar-item-label {
+		font-weight: var(--weight-bold);
+		
+	}  
+/*
   .sidebar-label {
 		font-weight: var(--weight-bold);
 		
 	}  
-
+*/
   .icon-sm {
     width: 22px;
     height: 22px;
