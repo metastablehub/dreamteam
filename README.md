@@ -1,6 +1,6 @@
 ## dreamteam
 
-my custom app for FrappeHRM
+my custom app
 
 #### License
 
